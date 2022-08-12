@@ -1,0 +1,15 @@
+C:\Users\Антон\Desktop\GB\Лекции\Введение в программирование\C#\Examples\Examle001_HelloConsole\bin\Debug\net6.0\Examle001_HelloConsole.exe
+C:\Users\Антон\Desktop\GB\Лекции\Введение в программирование\C#\Examples\Examle001_HelloConsole\bin\Debug\net6.0\Examle001_HelloConsole.deps.json
+C:\Users\Антон\Desktop\GB\Лекции\Введение в программирование\C#\Examples\Examle001_HelloConsole\bin\Debug\net6.0\Examle001_HelloConsole.runtimeconfig.json
+C:\Users\Антон\Desktop\GB\Лекции\Введение в программирование\C#\Examples\Examle001_HelloConsole\bin\Debug\net6.0\Examle001_HelloConsole.dll
+C:\Users\Антон\Desktop\GB\Лекции\Введение в программирование\C#\Examples\Examle001_HelloConsole\bin\Debug\net6.0\Examle001_HelloConsole.pdb
+C:\Users\Антон\Desktop\GB\Лекции\Введение в программирование\C#\Examples\Examle001_HelloConsole\obj\Debug\net6.0\Examle001_HelloConsole.csproj.AssemblyReference.cache
+C:\Users\Антон\Desktop\GB\Лекции\Введение в программирование\C#\Examples\Examle001_HelloConsole\obj\Debug\net6.0\Examle001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Антон\Desktop\GB\Лекции\Введение в программирование\C#\Examples\Examle001_HelloConsole\obj\Debug\net6.0\Examle001_HelloConsole.AssemblyInfoInputs.cache
+C:\Users\Антон\Desktop\GB\Лекции\Введение в программирование\C#\Examples\Examle001_HelloConsole\obj\Debug\net6.0\Examle001_HelloConsole.AssemblyInfo.cs
+C:\Users\Антон\Desktop\GB\Лекции\Введение в программирование\C#\Examples\Examle001_HelloConsole\obj\Debug\net6.0\Examle001_HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\Антон\Desktop\GB\Лекции\Введение в программирование\C#\Examples\Examle001_HelloConsole\obj\Debug\net6.0\Examle001_HelloConsole.dll
+C:\Users\Антон\Desktop\GB\Лекции\Введение в программирование\C#\Examples\Examle001_HelloConsole\obj\Debug\net6.0\refint\Examle001_HelloConsole.dll
+C:\Users\Антон\Desktop\GB\Лекции\Введение в программирование\C#\Examples\Examle001_HelloConsole\obj\Debug\net6.0\Examle001_HelloConsole.pdb
+C:\Users\Антон\Desktop\GB\Лекции\Введение в программирование\C#\Examples\Examle001_HelloConsole\obj\Debug\net6.0\Examle001_HelloConsole.genruntimeconfig.cache
+C:\Users\Антон\Desktop\GB\Лекции\Введение в программирование\C#\Examples\Examle001_HelloConsole\obj\Debug\net6.0\ref\Examle001_HelloConsole.dll
